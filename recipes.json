@@ -1,74 +1,64 @@
 [
   {
-    "title": "Chicken and Broccoli Pasta Bake",
+    "title": "Chicken Mozzarella Pasta",
     "cook_time": "30 minutes",
     "ingredients": [
-      "2 chicken breasts",
-      "8 oz pasta",
-      "1 cup broccoli florets",
-      "1 cup pasta sauce",
-      "1 cup shredded mozzarella cheese",
+      "chicken breast",
+      "pasta",
+      "mozzarella cheese",
+      "pasta sauce",
       "olive oil",
       "salt",
-      "pepper",
-      "garlic powder"
+      "pepper"
     ],
     "instructions": [
-      "Preheat oven to 375\u00b0F (190\u00b0C).",
-      "Cook pasta according to package directions until al dente; drain and set aside.",
-      "Season chicken breasts with salt, pepper, and garlic powder.",
-      "In a skillet, heat olive oil over medium heat and cook chicken until browned and cooked through, about 6-7 minutes per side; slice into strips.",
-      "Steam or blanch broccoli florets until tender-crisp.",
-      "In a large bowl, combine pasta, chicken slices, broccoli, and pasta sauce. Mix well.",
-      "Transfer mixture to a baking dish, top with shredded mozzarella cheese.",
-      "Bake for 15 minutes or until cheese is melted and bubbly.",
-      "Serve hot."
+      "Cook pasta according to package instructions and drain.",
+      "Season chicken breast with salt and pepper and cook in olive oil over medium heat until cooked through.",
+      "Slice cooked chicken and mix with pasta, pasta sauce, and mozzarella cheese.",
+      "Heat mixture until cheese is melted and serve."
     ]
   },
   {
-    "title": "Mozzarella Stuffed Chicken with Broccoli",
-    "cook_time": "25 minutes",
+    "title": "Broccoli Chicken Alfredo Pasta",
+    "cook_time": "30 minutes",
     "ingredients": [
-      "2 chicken breasts",
-      "1 cup mozzarella cheese",
-      "1 cup broccoli florets",
-      "olive oil",
+      "chicken breast",
+      "pasta",
+      "broccoli",
+      "butter",
+      "flour",
+      "milk (assumed pantry staple)",
+      "mozzarella cheese",
+      "garlic powder",
       "salt",
-      "pepper",
-      "garlic powder"
+      "pepper"
     ],
     "instructions": [
-      "Preheat oven to 375\u00b0F (190\u00b0C).",
-      "Cut a pocket into each chicken breast without cutting all the way through.",
-      "Stuff mozzarella cheese into each pocket.",
-      "Season the outside of chicken with salt, pepper, and garlic powder.",
-      "Heat olive oil in an oven-safe skillet over medium heat.",
-      "Sear chicken breasts for 3-4 minutes on each side until golden.",
-      "Add broccoli florets to the skillet.",
-      "Transfer skillet to the oven and bake for 15 minutes until chicken is cooked through and cheese melts.",
-      "Serve chicken with roasted broccoli."
+      "Cook pasta and broccoli together until tender, drain.",
+      "Cook chicken breast seasoned with salt, pepper, and garlic powder until done and slice.",
+      "Make a roux by melting butter, stirring in flour, then slowly adding milk to thicken into white sauce.",
+      "Add mozzarella cheese to sauce until melted.",
+      "Combine pasta, broccoli, chicken, and cheese sauce and heat through before serving."
     ]
   },
   {
-    "title": "Quick Chicken Pasta with Broccoli and Mozzarella",
-    "cook_time": "20 minutes",
+    "title": "Baked Chicken and Broccoli with Pasta Sauce",
+    "cook_time": "30 minutes",
     "ingredients": [
-      "2 chicken breasts",
-      "8 oz pasta",
-      "1 cup broccoli florets",
-      "1 cup pasta sauce",
-      "1 cup shredded mozzarella cheese",
+      "chicken breast",
+      "broccoli",
+      "pasta sauce",
+      "mozzarella cheese",
       "olive oil",
       "salt",
-      "pepper",
-      "garlic powder"
+      "pepper"
     ],
     "instructions": [
-      "Cook pasta according to package instructions; during last 3 minutes add broccoli florets to the same pot; drain both together.",
-      "Season chicken breasts with salt, pepper, and garlic powder.",
-      "Heat olive oil in a skillet over medium heat and cook chicken breasts until golden and cooked through, then slice.",
-      "Return pasta and broccoli to the pot; stir in pasta sauce and mozzarella cheese until cheese melts and sauce is heated through.",
-      "Top with sliced chicken and serve."
+      "Preheat oven to 375\u00b0F (190\u00b0C).",
+      "Cut chicken breast into pieces and season with salt and pepper.",
+      "Place chicken and broccoli in a baking dish, drizzle with olive oil and pour pasta sauce over.",
+      "Top with mozzarella cheese.",
+      "Bake for 25 minutes until chicken is cooked through and cheese is bubbly."
     ]
   }
 ]
